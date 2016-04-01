@@ -58,3 +58,5 @@
 	"51": "2100",
 	"52": "2200",
 	"53": "2300"
+
+https://github.com/KC3Kai/KC3Kai/blob/master/src/pages/strategy/tabs/mstship/mstship.js#L12-L66
