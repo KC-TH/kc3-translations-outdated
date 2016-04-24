@@ -63,6 +63,12 @@
 
 บทพูดจะอิงบนร่างปกติ ส่วนร่างไคและไคนิ จะแปลเฉพาะบทที่มีการเปลี่ยนแปลงเท่านั้น
 
+บทเทศกาล
+	"6547": "",
+
+
+-------------------------
+
 https://github.com/KC3Kai/KC3Kai/blob/master/src/pages/strategy/tabs/mstship/mstship.js#L12-L66
 
 Converting to descriptive keys
