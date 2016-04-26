@@ -1,7 +1,7 @@
 {
 	},
 	"ShipQuotesTemplate" : {
-		"Ship" : "ชื่อเรือ",
+		"Ship" : "ShipName",
 		"Intro" : "",
 		"Library" : "",
 		"Poke(1)" : "",
@@ -57,10 +57,10 @@
 		"H2300" : ""
 	},
 	"ShipQuotesTemplate" : {
-		"Ship" : "ชื่อเรือ Kai"
+		"Ship" : "ShipName Kai"
 	},
 	"ShipQuotesTemplate" : {
-		"Ship" : "ชื่อเรือ Kai Ni"
+		"Ship" : "ShipName Kai Ni"
 	},
 }
 
