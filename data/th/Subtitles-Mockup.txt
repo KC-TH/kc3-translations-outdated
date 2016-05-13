@@ -72,7 +72,7 @@ https://github.com/KC3Kai/KC3Kai/issues/1299
 		"6547" : "Poke(1)",
 		"1471" : "Asashimo Poke(2)",
 		
-		"Seasonal" : "",
+		"Seasonal" : "บทเทศกาล",
 		
 		"Anniversary2016" : "",
 		"Christmas2015" : "",
