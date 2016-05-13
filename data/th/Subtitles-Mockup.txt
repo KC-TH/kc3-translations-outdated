@@ -71,6 +71,19 @@ https://github.com/KC3Kai/KC3Kai/issues/1299
 
 		"6547" : "Poke(1)",
 		"1471" : "Asashimo Poke(2)",
+	
+		"Anniversary2016" : "",
+		"Christmas2015" : "",
+		"EndYear2016" : "",
+		"Fall2015" : "",
+		"Hinamatsuri2016" : "",
+		"NewYear2016" : "",
+		"Rainy2015" : "",
+		"Setsubun2016" : "",
+		"Spring2016" : "",
+		"Summer2015" : "",
+		"Valentine2016" : "",
+		"Whiteday2016" : "",
 		
 -------------------------
 
