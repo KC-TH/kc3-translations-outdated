@@ -75,17 +75,19 @@ https://github.com/KC3Kai/KC3Kai/issues/1299
 		"Seasonal" : "บทเทศกาล",
 		
 		"Anniversary2016" : "",
-		"Christmas2015" : "",
 		"EndYear2016" : "",
-		"Fall2015" : "",
-		"Hinamatsuri2016" : "",
 		"NewYear2016" : "",
-		"Rainy2015" : "",
-		"Setsubun2016" : "",
+
 		"Spring2016" : "",
 		"Summer2015" : "",
+		"Fall2015" : "",
+		"Rainy2015" : "",
+
+		"Christmas2015" : "",
 		"Valentine2016" : "",
 		"Whiteday2016" : "",
+		"Hinamatsuri2016" : "",
+		"Setsubun2016" : "",
 		
 -------------------------
 
